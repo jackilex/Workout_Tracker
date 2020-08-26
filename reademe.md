@@ -18,7 +18,8 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 ---
 ## Installation
-no install needed to use website follow the link. 
+1)use website follow the link.
+2) Second option is to a) download this package to your desktop. b) run "nom install -y" c) npm run dev
 
 
 [Back To The Top](#read-me-template)
